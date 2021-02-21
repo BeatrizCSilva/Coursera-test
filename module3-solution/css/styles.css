@@ -1,0 +1,60 @@
+body {
+  font-family: 'Comic Sans', cursive;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list a {
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+/* Conteudo */
+h1 {
+      text-align: center;
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+
+.row {
+      width: 100%;
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+h3 {
+  text-align: center;
+}
+
+p {
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.menu {
+      border-style: solid;
+      border-color: black;
+      background-color: lightgrey;
+      margin: auto;
+      margin-bottom: 20px;
+      width: 90%;
+    }
+
+.top {
+  float: right;
+}
