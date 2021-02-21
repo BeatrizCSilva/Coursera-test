@@ -46,13 +46,12 @@ p {
   padding-bottom: 5px;
 }
 
-.menu {
+.food {
       border-style: solid;
       border-color: black;
       background-color: lightgrey;
       margin: auto;
       margin-bottom: 20px;
-      width: 90%;
     }
 
 .top {
